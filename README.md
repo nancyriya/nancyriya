@@ -9,7 +9,9 @@ Currently building my skills in Python, SQL, and data visualization through hand
 - 🌱 I’m currently learning DSA and Integrating AI to my workflow
 
 - Social Presencehing
- <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />(https://www.linkedin.com/in/priyaiyyanar/)
+
+ [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />]
+ (https://www.linkedin.com/in/priyaiyyanar/)
 
 
 
