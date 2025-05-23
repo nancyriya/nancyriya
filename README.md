@@ -13,17 +13,21 @@ Currently building my skills in Python, SQL, and data visualization through hand
 
 
 ### I code in  
-src="https://img.icons8.com/color/48/000000/react-native.png"/> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/google-firebase-console.png"/> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/mysql-logo.png"/> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/mongodb.png"/> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/mongodb.png"/> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/nodejs.png"/> <img height="50" width="50" 
+<p align="left">
+  <img src="https://img.icons8.com/color/48/000000/python.png" alt="Python" title="Python"/>
+  <img src="https://img.icons8.com/color/48/000000/javascript.png" alt="JavaScript" title="JavaScript"/>
+  <img src="https://img.icons8.com/color/48/000000/react-native.png" alt="React Native" title="React Native"/>
+  <img src="https://img.icons8.com/color/48/000000/mysql-logo.png" alt="MySQL" title="MySQL"/>
+</p> 
 
 ### IDE and Tools I Use
 <img height="50" width="50" src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png"/> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/pycharm.png"/> <img height="50" width="50" src="https://img.icons8.com/color/50/000000/git.png"/> <img height="50" width="50" src="https://img.icons8.com/dusk/64/000000/anaconda.png"/>
 
 ### 💻 Workspace Spec
 
-[![priya github stats](https://github-readme-stats.vercel.app/api?username=priya-r&theme=dark&show_icons=true&&hide=issues,contribs)]
+![priya github stats](https://github-readme-stats.vercel.app/api?username=priya-r&theme=dark&show_icons=true&&hide=issues,contribs)
+[![Leetcode Stats](https://leetcard.jacoblin.cool/priya?ext=contest&theme=dark)](https://leetcode.com/priya)
 
-[![Leetcode Stats](![LeetCode Stats](https://leetcard.jacoblin.cool/priya?theme=dark&font=Patua%20One))]
-
-[![priya's github activity graph](https://github-readme.md)]
+[![priya github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=priya-r&bg_color=000000&color=ffffff&line=51f565&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 
